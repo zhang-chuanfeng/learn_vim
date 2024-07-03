@@ -1,0 +1,27 @@
+collection = getCollection();
+process(somethingInTheWay, target);
+
+"0          专用复制寄存器
+
+
+yiw
+j
+w
+w
+diw
+"0P
+
+
+"+      剪切板专用寄存器
+"*      选择专用寄存器
+
+"%      当前文件名
+"#      轮换文件名
+
+用寄存器内容替换高亮选区的文本
+yiw
+j
+w
+w
+ve
+P

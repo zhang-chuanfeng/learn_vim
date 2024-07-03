@@ -1,0 +1,8 @@
+var foo =  "method(" + argument1 + "," + argument2 + ")";
+
+
+f{char}  查找字符光标移动到字符上
+;    向后重复查找
+,    向前重复查找
+
+;. 重复查找  重复命令

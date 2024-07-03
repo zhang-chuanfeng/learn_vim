@@ -1,0 +1,12 @@
+    we're waiting for content before the site can go live   
+    If you are content with this, let's go ahead with it    
+    We'll launch as soon as we have the content     
+
+
+* 匹配单词  或者 /pattern
+n 下一个匹配
+N 前一个后一个匹配
+
+cw{替换的单词}
+
+n 搭配 . 手动匹配替

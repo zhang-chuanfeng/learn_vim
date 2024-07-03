@@ -1,0 +1,17 @@
+<a href="#">one</a>
+<a href="#">two</a>
+<a href="#">three</a>
+
+
+vit         it 文本对象的的特殊动作命令
+
+方式1
+vit
+U
+j.
+j.
+
+方式2
+gUit
+j.
+j.

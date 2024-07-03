@@ -1,0 +1,4 @@
+Typing in Insert mode extends the line. But in Replace mode
+the line length doesn't change.
+
+R   优先替换当前光标字符后光标自动移动下一个字符

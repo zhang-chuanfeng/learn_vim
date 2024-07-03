@@ -1,0 +1,8 @@
+The end is nigh
+
+dbx    反向删除单词  (. == x)
+bdw    正向删除单词  (. == dw)
+
+daw     删除整个单词 (. == daw)
+
+搭配.   daw     较优

@@ -1,0 +1,32 @@
+
+dl 删除一个字符
+
+daw  删除整个单词
+
+dap 删除整个段落
+
+d{motion}
+c{motion}
+y{motion}
+
+
+g~      大小写转换
+gu      转小写
+gU      转大写
+
+
+g~aw    抓换一个单词
+g~l     z
+
+重复操作符作用在当前行
+
+dd 删除当前行
+
+>> 缩进当前行
+
+gUU     当前行转大写
+guu     当前行转小写
+
+gc{motion}  注释命令
+gcG         注释到尾部
+5gcc        注释5行

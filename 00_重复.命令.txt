@@ -1,0 +1,8 @@
+Line one
+Line two
+Line three
+Line four
+
+
+. 重复命令
+>G 从当前行到末尾 缩进层级

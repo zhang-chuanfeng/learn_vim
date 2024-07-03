@@ -1,0 +1,15 @@
+
+                        重复    撤销
+{edit}                  .       u
+
+f{char}                 ;       ,   向后查找字符光标到字符上
+t{char}                 ;       ,   向后查找字符到字符前面一个位置
+F{char}                 ;       ,   向前查找字符光标到字符上
+T{char}                 ;       ,   向前查找字符光标在字符后面一个位置
+
+/pattern                n       N   文档向下匹配
+?pattern                n       N   文档向上匹配
+
+:s/target/replacement   &       u   执行替换
+
+qx{changes}q            @x      u   执行一系列操作

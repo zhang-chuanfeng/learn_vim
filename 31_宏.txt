@@ -1,0 +1,20 @@
+var foo = 1;
+var bar = 'a';
+var foobar = foo + bar;
+
+
+q{register}     开始宏
+q               结束宏
+
+
+简单宏
+qa
+A;[Esc]
+Ivar [Esc]
+q
+
+回放宏
+j
+@a
+j
+@@

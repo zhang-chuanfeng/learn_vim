@@ -1,0 +1,28 @@
+search for your target
+it only takes a moment
+to get where you want
+
+/pattern
+
+This phrase takes time but
+eventually gets to the point.
+
+
+可视模式和/匹配后操作
+v
+/ge
+h
+d
+
+
+var tpl = [
+'<a href="{url}">{title}</a>'
+]
+
+可视选中
+vi}
+a"
+i'
+
+
+v模式下  i{nternal} a{ll}  匹配
