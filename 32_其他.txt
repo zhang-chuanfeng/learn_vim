@@ -1,0 +1,10 @@
+
+J       合并两行
+
+Ctrl + d  向下翻页
+Ctrl + u  向上翻页
+
+
+Ctrl + a 数字加1
+Ctrl + x 数字减1
+

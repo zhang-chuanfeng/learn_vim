@@ -8,3 +8,6 @@
 
 
 [count]G            跳转到某一行    vscode中  C+G 输入行号
+
+m{mark}
+`{mark}
